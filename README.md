@@ -1,5 +1,5 @@
 # Testes automatizados com Cypress curso (Intermediário) ❤️
-# Automated Testing with Cypress course (intermediate) ❤️❤️
+# Automated Testing with Cypress course (intermediate) 
 
 Durante o curso de testes automatizados com Cypress (intermediário) eu aprendi:
 
